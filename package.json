@@ -1,7 +1,6 @@
 {
-  "name": "template_webpack",
+  "name": "ajs-promises",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
@@ -31,5 +30,14 @@
   },
   "dependencies": {
     "core-js": "^3.20.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolinaVylizhanina/ajs-promises.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PolinaVylizhanina/ajs-promises/issues"
+  },
+  "homepage": "https://github.com/PolinaVylizhanina/ajs-promises#readme",
+  "description": ""
 }
